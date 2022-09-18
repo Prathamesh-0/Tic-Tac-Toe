@@ -10,8 +10,6 @@ A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web &
 - Responsive Glow Themed UI
 - Cross Platform Game
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/Aut-wfXacXg)
 
 <p align="center">
   <img width="600" src="https://github.com/RivaanRanawat/flutter-multiplayer-tictactoe/blob/master/screenshot.png" alt="Youtube Tutorial Image">
